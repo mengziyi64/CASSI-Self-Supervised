@@ -7,7 +7,7 @@ This repository uses a self-supervised neural networks to solve the reconstructi
 
 ## Results
 <p align="center">
-<img src="Data/Image/Fig1.png" width="800">
+<img src="Data/Image/Fig1.png" width="600">
 </p>
 Fig. 1 Reconstructed synthetic data (sRGB) by 8 algorithms. We show the reconstructed spectral curves on selected regions to compare the spectral accuracy of different algorithms.
 
