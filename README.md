@@ -3,7 +3,7 @@ This repository contains the codes for paper **Self-supervised Neural Networks f
 [[pdf]](https://arxiv.org/pdf/2108.12654.pdf)
 
 ## Overviewer
-This repository uses a self-supervised neural networks to solve the reconstruction problem of snapshot compressive imaging (SCI), which uses a two-dimensional (2D) detector to capture a high-dimensional (usually 3D) data-cube in a compressed manner. This source code provides the reconstruction of 10 synthetic data originally used in [TSA-Net](https://github.com/mengziyi64/TSA-Net). So far this version of code only includes the PnP-DIP for the synthetic data.
+This repository uses a self-supervised neural networks to solve the reconstruction problem of snapshot compressive imaging (SCI), which uses a two-dimensional (2D) detector to capture a high-dimensional (usually 3D) data-cube in a compressed manner. This source code provides the reconstruction of 10 synthetic data originally used in [TSA-Net](https://github.com/mengziyi64/TSA-Net) paper. So far this version of code only includes the PnP-DIP for the synthetic data.
 
 ## Results
 <p align="center">
