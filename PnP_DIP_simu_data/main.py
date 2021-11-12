@@ -24,7 +24,7 @@ X_ori = sio.loadmat(datapath)['img']
 X_ori = X_ori/X_ori.max()
 X_ori_shift = shift(X_ori, step=2)
 y = A(X_ori_shift,Phi)
-tvdip_num =  20
+tvdip_num =  60
 mu = 0.01
 eta = 0
 denoiser = 'DIP'
