@@ -12,7 +12,7 @@ This repository uses a self-supervised neural networks to solve the reconstructi
 Fig. 1 Reconstructed synthetic data (sRGB) by 8 algorithms. We show the reconstructed spectral curves on selected regions to compare the spectral accuracy of different algorithms.
 
 ## Usage
-### Download the SMEM repository and model file
+### Download the CASSI-Self-Supervised repository and model file
 0. Requirements are Python 3 and Pytorch 1.6 
 1. Download this repository via git
 2. Run **main.py** or **main.ipynb** to do reconstruction of one scene.
